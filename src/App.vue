@@ -39,7 +39,7 @@
 
 <script>
 // firebase モジュール
-import firebase from '@src/plugin/firebase';
+import firebase from '@/plugin/firebase';
 // 改行を <br> タグに変換するモジュール
 import Nl2br from 'vue-nl2br'
 export default {
